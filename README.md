@@ -12,4 +12,5 @@ The course dives deep into the foundational concepts behind large language model
 - Tokenization
 
 
-## ⭐ Big Thanks to Vizuara for this course
+## ⭐Credits
+ Big Thanks to Vizuara for this course
